@@ -1,50 +1,35 @@
 Netflix Shows Visualization
 
+📌 Overview
 
+This Power BI dashboard provides an in-depth analysis of Netflix shows, focusing on ratings, release trends, show types, and popular categories. The visualizations help uncover insights into Netflix content distribution and trends over time.
 
-Overview
+📊 Key Insights
 
-This Power BI dashboard provides insights into Netflix shows, including ratings, release countries, show types, and top categories. The visualizations help analyze trends in Netflix content over time and across different genres.
+✅ Count of Ratings by Show – Breakdown of show ratings, highlighting popular content classifications.✅ Total Shows Available – Displays the total number of Netflix shows (19K).✅ Average Show Duration – Shows the average runtime of Netflix content (99.58 minutes).✅ Show Releases Over Time – A trend line chart illustrating how Netflix content has evolved by year.✅ Geographical Distribution – A world map showcasing Netflix show release locations.✅ Show Type Distribution – A donut chart comparing the percentage of Movies vs. TV Shows.✅ Top 10 Show Categories – A bar chart ranking the most popular Netflix show categories.
 
-Features
+🛠️ Tools & Technologies Used
 
-Count of Ratings by Show: Displays the distribution of shows based on ratings.
+Power BI – Data visualization and dashboard creation.
 
-Total Count of Shows: Shows the total number of shows available (19K).
+DAX (Data Analysis Expressions) – Used for calculated measures and insights.
 
-Average Show Time: Displays the average runtime of shows (99.58 minutes).
+Excel / MySQL – Data sources for Netflix shows.
 
-Count of Shows by Year: A trend analysis of show releases over time.
+🚀 How to Use
 
-Released Country: A world map representation of where Netflix shows are released.
-
-Type of Shows: A donut chart showing the percentage of Movies vs. TV Shows.
-
-Top 10 Categories of Listed Shows: Bar chart ranking the most popular Netflix categories.
-
-Tools Used
-
-Power BI: For data visualization and dashboard creation.
-
-DAX: Used for creating measures and calculated columns.
-
-Excel/MySQL: Data source for Netflix shows.
-
-How to Use
-
-Clone this repository:
+Clone the Repository:
 
 git clone https://github.com/MorsalinMiah7/netflix-dashboard.git
 
-Open the Power BI file (.pbix) to explore the dashboard.
+Open the Power BI (.pbix) file to explore the dashboard interactively.
 
-Analyze trends, filter data, and gain insights from the visualizations.
+Filter and analyze the data to uncover trends in Netflix content.
 
-Author
+👤 About the Author
 
-Morsalin MiahData Analyst | Power BI | Python | SQL
+Morsalin Miah📊 Data Analyst | 📈 Power BI | 🐍 Python | 🔍 SQL🔗 Portfolio | ✉️ info.morsalin.miah@gmail.com
 
-License
+📜 License
 
-This project is licensed under the MIT License.
-
+This project is licensed under the MIT License. Feel free to use and modify it as needed.
