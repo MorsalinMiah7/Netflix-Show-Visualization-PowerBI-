@@ -4,7 +4,7 @@ Netflix Shows Visualization
 
 This Power BI dashboard provides an in-depth analysis of Netflix shows, focusing on ratings, release trends, show types, and popular categories. The visualizations help uncover insights into Netflix content distribution and trends over time.
 
-![Amazon Prime Show Visualization](Amazon%20Prime%20show%20visualization.png)
+![Netflix Show Visualization](netflix%20dashboard.png) 
 📊 Key Insights
 
 ✅ Count of Ratings by Show – Breakdown of show ratings, highlighting popular content classifications.✅ Total Shows Available – Displays the total number of Netflix shows (19K).✅ Average Show Duration – Shows the average runtime of Netflix content (99.58 minutes).✅ Show Releases Over Time – A trend line chart illustrating how Netflix content has evolved by year.✅ Geographical Distribution – A world map showcasing Netflix show release locations.✅ Show Type Distribution – A donut chart comparing the percentage of Movies vs. TV Shows.✅ Top 10 Show Categories – A bar chart ranking the most popular Netflix show categories.
